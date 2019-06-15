@@ -7,7 +7,8 @@
 
 使用到的平台有
 
-1.AppInventor2汉化版https://app.wxbit.com/#305200用于制作app
+1.AppInventor2汉化版https://app.wxbit.com/#305200（用于制作app）
+
 2.贝壳物联网平台https://www.bigiot.net/help/34.html#add_client（这是他的API）
 
 实现功能的设备
